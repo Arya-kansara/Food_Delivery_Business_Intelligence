@@ -44,7 +44,6 @@ Food_Delivery_Business_Intelligence_System/
 ├── sql/
 ├── powerbi/
 ├── models/
-├── dashboard_images/
 ├── business_insights.md
 ├── data_dictionary.md
 ├── README.md
