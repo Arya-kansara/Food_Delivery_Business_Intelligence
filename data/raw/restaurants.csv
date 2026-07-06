@@ -1,0 +1,101 @@
+restaurant_id,restaurant_name,city,cuisine,rating,partner_since,partner_id
+R0001,The Midnight Masala,Ahmedabad,Nachos,good,2025-09-12,P0004
+R0002,Naan Stop,Surat,SizzlerItalian,good,2023-08-09,P0002
+R0003,Dal Roti Wala,Pune,South Indian,good,2026-06-18,P0049
+R0004,Wok & Tikka,Pune,North Indian,good,2024-10-27,P0004
+R0005,Tadka Town,Pune,North Indian,good,2024-02-07,P0049
+R0006,Naan Stop,Bangalore,Gujarati,good,2024-08-28,P0002
+R0007,The Green Chutney,Delhi,Nachos,good,2023-07-15,P0023
+R0008,Naan Stop,Surat,Mexican,good,2026-02-25,P0033
+R0009,Tadka Town,Ahmedabad,Mexican,good,2024-09-28,P0042
+R0010,The Green Chutney,Bangalore,South Indian,good,2025-04-24,P0014
+R0011,Curry Cartel,Delhi,North Indian,good,2025-12-22,P0010
+R0012,The Green Chutney,Hyderabad,Chinese,good,2024-01-05,P0037
+R0013,The Chaat Chart,Surat,Pizza,good,2026-03-07,P0010
+R0014,The Midnight Masala,Pune,South Indian,good,2025-09-27,P0033
+R0015,Wok & Tikka,Bangalore,Nachos,good,2023-07-28,P0008
+R0016,Naan Stop,Surat,South Indian,good,2024-01-15,P0048
+R0017,The Green Chutney,Pune,Biryani,good,2024-02-26,P0009
+R0018,Curry Cartel,Delhi,Gujarati,good,2024-12-19,P0004
+R0019,Tadka Town,Chennai,Chinese,good,2023-11-23,P0004
+R0020,Wok & Tikka,Ahmedabad,Chinese,good,2025-08-23,P0039
+R0021,Wok & Tikka,Delhi,Biryani,good,2024-06-29,P0023
+R0022,Naan Stop,Delhi,Nachos,good,2024-01-27,P0042
+R0023,Naan Stop,Chennai,Mexican,good,2026-05-26,P0026
+R0024,Naan Stop,Hyderabad,South Indian,good,2025-05-07,P0002
+R0025,Curry Cartel,Hyderabad,SizzlerItalian,good,2026-04-22,P0003
+R0026,Dal Roti Wala,Hyderabad,Biryani,good,2026-05-17,P0033
+R0027,The Green Chutney,Hyderabad,SizzlerItalian,good,2023-07-20,P0014
+R0028,The Chaat Chart,Ahmedabad,Gujarati,good,2025-04-15,P0021
+R0029,Naan Stop,Bangalore,North Indian,good,2025-01-01,P0009
+R0030,Curry Cartel,Ahmedabad,Mexican,good,2026-01-20,P0004
+R0031,Dal Roti Wala,Delhi,South Indian,good,2024-05-13,P0007
+R0032,Tadka Town,Pune,SizzlerItalian,good,2026-03-19,P0001
+R0033,The Chaat Chart,Delhi,Biryani,good,2023-10-07,P0010
+R0034,Curry Cartel,Surat,South Indian,good,2024-12-30,P0049
+R0035,Naan Stop,Ahmedabad,Chinese,good,2024-05-20,P0015
+R0036,Tadka Town,Delhi,SizzlerItalian,good,2025-06-26,P0049
+R0037,The Chaat Chart,Bangalore,Mexican,good,2026-02-26,P0004
+R0038,Dal Roti Wala,Chennai,Chinese,good,2025-03-18,P0025
+R0039,The Midnight Masala,Chennai,Nachos,good,2024-10-30,P0025
+R0040,Tadka Town,Surat,Mexican,good,2026-05-16,P0020
+R0041,Dal Roti Wala,Surat,SizzlerItalian,good,2025-08-04,P0026
+R0042,Wok & Tikka,Mumbai,Biryani,good,2025-08-25,P0009
+R0043,The Green Chutney,Ahmedabad,Nachos,good,2023-09-22,P0001
+R0044,Naan Stop,Pune,Mexican,good,2023-12-05,P0048
+R0045,Wok & Tikka,Hyderabad,Biryani,good,2025-05-17,P0005
+R0046,The Green Chutney,Bangalore,Pizza,good,2023-07-24,P0016
+R0047,The Green Chutney,Delhi,North Indian,good,2025-12-29,P0050
+R0048,Curry Cartel,Hyderabad,Gujarati,good,2023-12-31,P0025
+R0049,Dal Roti Wala,Pune,Nachos,good,2024-08-23,P0038
+R0050,Curry Cartel,Ahmedabad,Mexican,good,2025-11-13,P0015
+R0051,The Green Chutney,Bangalore,Chinese,good,2023-09-14,P0009
+R0052,The Green Chutney,Bangalore,Biryani,good,2026-04-25,P0003
+R0053,Wok & Tikka,Chennai,Pizza,good,2023-11-10,P0027
+R0054,Curry Cartel,Hyderabad,SizzlerItalian,good,2024-11-08,P0006
+R0055,The Midnight Masala,Surat,Chinese,good,2026-01-31,P0010
+R0056,Wok & Tikka,Mumbai,North Indian,good,2025-09-13,P0014
+R0057,Dal Roti Wala,Bangalore,Chinese,good,2024-01-12,P0047
+R0058,Dal Roti Wala,Delhi,Biryani,good,2023-12-03,P0050
+R0059,The Green Chutney,Surat,SizzlerItalian,good,2026-05-26,P0023
+R0060,Tadka Town,Pune,Biryani,good,2023-11-28,P0003
+R0061,The Midnight Masala,Delhi,Nachos,good,2025-01-18,P0007
+R0062,The Green Chutney,Pune,Biryani,good,2024-10-31,P0039
+R0063,Wok & Tikka,Bangalore,Mexican,good,2026-02-17,P0009
+R0064,The Green Chutney,Pune,Gujarati,good,2025-05-24,P0012
+R0065,Naan Stop,Ahmedabad,Gujarati,good,2023-08-13,P0036
+R0066,Dal Roti Wala,Pune,Mexican,good,2025-03-09,P0019
+R0067,Naan Stop,Delhi,Mexican,good,2024-04-08,P0014
+R0068,Curry Cartel,Bangalore,North Indian,good,2023-10-21,P0023
+R0069,Tadka Town,Surat,Biryani,good,2023-08-31,P0007
+R0070,Tadka Town,Bangalore,Pizza,good,2024-06-01,P0012
+R0071,The Green Chutney,Mumbai,Mexican,good,2023-12-19,P0007
+R0072,Naan Stop,Delhi,Mexican,good,2023-07-17,P0007
+R0073,Dal Roti Wala,Pune,Mexican,good,2024-08-09,P0001
+R0074,The Green Chutney,Pune,Chinese,good,2025-07-27,P0007
+R0075,Wok & Tikka,Chennai,South Indian,good,2026-04-06,P0011
+R0076,Dal Roti Wala,Ahmedabad,SizzlerItalian,good,2023-07-28,P0027
+R0077,The Chaat Chart,Pune,South Indian,good,2025-03-23,P0003
+R0078,The Green Chutney,Pune,North Indian,good,2023-08-16,P0046
+R0079,Tadka Town,Mumbai,North Indian,good,2026-05-13,P0050
+R0080,The Chaat Chart,Pune,Nachos,good,2025-12-17,P0031
+R0081,The Midnight Masala,Pune,South Indian,good,2023-10-05,P0026
+R0082,The Midnight Masala,Bangalore,SizzlerItalian,good,2023-08-08,P0030
+R0083,The Midnight Masala,Pune,Nachos,good,2025-02-12,P0011
+R0084,The Green Chutney,Pune,North Indian,good,2024-12-24,P0030
+R0085,Naan Stop,Mumbai,South Indian,good,2023-08-16,P0044
+R0086,Dal Roti Wala,Delhi,Biryani,good,2025-08-09,P0036
+R0087,Naan Stop,Mumbai,Pizza,good,2024-04-03,P0011
+R0088,Dal Roti Wala,Delhi,South Indian,good,2024-04-01,P0013
+R0089,Wok & Tikka,Delhi,Biryani,good,2024-05-29,P0025
+R0090,Curry Cartel,Chennai,South Indian,good,2023-10-21,P0006
+R0091,Tadka Town,Hyderabad,Chinese,good,2025-03-12,P0010
+R0092,The Green Chutney,Delhi,North Indian,good,2025-09-04,P0046
+R0093,Dal Roti Wala,Hyderabad,Chinese,good,2026-05-03,P0011
+R0094,The Midnight Masala,Delhi,Pizza,good,2026-02-24,P0004
+R0095,The Green Chutney,Bangalore,Gujarati,good,2023-07-04,P0003
+R0096,Dal Roti Wala,Chennai,Chinese,good,2025-06-27,P0004
+R0097,Wok & Tikka,Hyderabad,North Indian,good,2023-10-31,P0024
+R0098,The Chaat Chart,Mumbai,Mexican,good,2025-08-08,P0003
+R0099,Wok & Tikka,Pune,SizzlerItalian,good,2025-03-12,P0024
+R0100,The Green Chutney,Delhi,Chinese,good,2026-04-08,P0007
